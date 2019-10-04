@@ -1,1 +1,3 @@
-# the-trail-blazer.github.io
+# Team Tail Blazer
+
+### [Ground Rules](docs/ground-rules.md)
