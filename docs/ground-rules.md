@@ -1,0 +1,3 @@
+## Ground Rules 
+
+(in progress) 
