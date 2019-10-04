@@ -1,33 +1,43 @@
 ## Ground Rules 
 
-
-
-
-TEMPLATE
 ____________________________________________________________________
-Mobile Punch COC
-How we will communicate:
+The Trail Blazer 
+
+### How we will communicate:
 
     Slack
     Text message
     Big decisions made face to face
 
-Other goals:
+### Other goals:
 
-    Maintain positivity within the group. If someone is having an issue please communicate it with the group. Talk about productivity issues.
-    Plan to do something producitive daily (even just a conversation not neccesarily getting work done.)
+    Maintain positivity within the group. If someone is having an issue please communicate it with the group. 
+    Talk about productivity issues. Plan to do something producitive daily (even just a conversation not neccesarily getting work done.)
+    Document all important converstaions. 
+    
+ ### Scrum Goals
+ 
+    1. Together have a clearly stated goal
+    2. Together agree what needs to be done and what result should look like
+    3. Together write things down and even vusualize
+    4. When doing communicate as possible much as possible
+    5. Shortly meet together everyday to see where we at 
+    6. Help each other, remain as a TEAM until the end
+    7. Review the results when time comes
+    8. Review also how you worked, not what you worked on
+    9. Rinse and repeat 
 
-Weekly Meetings:
+### Weekly Meetings:
 
-    Every Saturday starting on the 27th.
+    Friday's at 3pm 
 
-Daily Scrums:
+### Daily Standup:
 
-    Before class we will have a daily standup.
+Daily stand ups will be held at 12:45pm unless otherwise noted
 
-E-Sign:
+### E-Sign:
 
-    Alex Benedict.
-    JR O.
-    Eve Robles
-    Travis, Decker.
+    Justin Dominguez 
+    Joel Bond
+    Khizar Saleem
+    Isaac Lindland
