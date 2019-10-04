@@ -11,9 +11,10 @@ The Trail Blazer
 
 ### Other goals:
 
-    Maintain positivity within the group. If someone is having an issue please communicate it with the group. 
-    Talk about productivity issues. Plan to do something producitive daily (even just a conversation not neccesarily getting work done.)
-    Document all important converstaions. 
+    1. Maintain positivity within the group. If someone is having an issue please communicate it with the group. 
+    2. Talk about productivity issues. Plan to do something producitive daily (even just a conversation not 
+       neccesarily getting work done.)
+    3. Document all important converstaions. 
     
  ### Scrum Goals
  
