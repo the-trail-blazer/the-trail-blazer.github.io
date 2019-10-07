@@ -2,9 +2,8 @@ The Trail Blazer
 
 ### Meeting Minutes 
 #### Week 1: 
-
-    
-    Text message
+   
+    Goal: 
     Big decisions made face to face
 
 #### Week 2: 
@@ -26,6 +25,4 @@ The Trail Blazer
     8. Review also how you worked, not what you worked on
     9. Rinse and repeat 
 
-### Weekly Meetings:
 
-    Friday's at 3pm 
