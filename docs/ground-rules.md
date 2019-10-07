@@ -1,7 +1,7 @@
 ## Ground Rules 
 
 ____________________________________________________________________
-The Trail Blazer 
+    The Trail Blazer 
 
 ### How we will communicate:
 
@@ -16,7 +16,7 @@ The Trail Blazer
        neccesarily getting work done.)
     3. Document all important converstaions. 
     
- ### Scrum Goals
+### Scrum Goals
  
     1. Together have a clearly stated goal
     2. Together agree what needs to be done and what result should look like
