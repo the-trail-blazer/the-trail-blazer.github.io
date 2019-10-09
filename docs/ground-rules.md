@@ -41,4 +41,4 @@ Daily stand ups will be held at 12:45pm unless otherwise noted
     Justin Dominguez []
     Joel Bond [x]
     Khizar Saleem [x]
-    Isaac Lindland []
+    Isaac Lindland [X]
