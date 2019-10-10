@@ -38,7 +38,7 @@ Daily stand ups will be held at 12:45pm unless otherwise noted
 
 ### E-Sign:
 
-    Justin Dominguez []
+    Justin Dominguez [x]
     Joel Bond [x]
     Khizar Saleem [x]
     Isaac Lindland [X]
