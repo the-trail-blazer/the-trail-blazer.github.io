@@ -21,7 +21,7 @@ ____________________________________________________________________
     1. Together have a clearly stated goal
     2. Together agree what needs to be done and what result should look like
     3. Together write things down and even vusualize
-    4. When doing communicate as possible much as possible
+    4. Communicate as much as possible
     5. Shortly meet together everyday to see where we at 
     6. Help each other, remain as a TEAM until the end
     7. Review the results when time comes
