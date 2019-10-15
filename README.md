@@ -8,6 +8,6 @@
 
 ### [Wireframe Diagram](docs/wireframe.md)  
 
-### [User Stories](doc/user-stories.md)
+### [User Stories](docs/user-stories.md)
 
 
