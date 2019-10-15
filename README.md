@@ -7,6 +7,6 @@
 
 ### [Wireframe Diagram](docs/wireframe.md)  
 
-### [User Stories](doc/erd.md)
+### [User Stories](doc/user-stories.md)
 
 
