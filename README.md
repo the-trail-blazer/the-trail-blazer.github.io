@@ -1,4 +1,4 @@
-# Trail Blazer
+# Trail Blazer - Blaze New Trails 
 
 ### [Ground Rules](docs/ground-rules.md)
 
@@ -9,5 +9,7 @@
 ### [Wireframe Diagram](docs/wireframe.md)  
 
 ### [User Stories](docs/user-stories.md)
+
+### [Trail](the-trail-blazer/trailblazer-service)
 
 
