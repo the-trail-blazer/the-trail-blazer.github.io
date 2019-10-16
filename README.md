@@ -10,6 +10,6 @@
 
 ### [User Stories](docs/user-stories.md)
 
-### [Trail](the-trail-blazer/trailblazer-service)
+### [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
 
 
