@@ -1,18 +1,17 @@
 The Trail Blazer 
 
 ### Meeting Minutes 
-#### Week 1: (Date here)
+#### Week 1: (10/11)
    
-    (Insert meeting minutes google docs link here)  
-    (Insert brief notes) 
+    Team to work on adding classes and creating user stories and ERDs.  
     
 #### Week 2: (Date here)
 
-    (Insert meeting minutes google docs link here) 
+    (Insert meeting minutes)  
     
- ### Week 3: 
+ ### Week 3: (Date Here)
  
-    (Insert meeting minutes google docs link here)
+    (Insert meeting minutes) 
 
 
 

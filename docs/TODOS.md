@@ -5,9 +5,10 @@
 * [X] Need at least 5 user stories
 * [ ] Choose basic android layout
 * [ ] Get android project started and pushed to github
+* [ ] Continue to work on ERDs and start building out entity classes
 
 #### Project
 
-* [ ] [ERD](erd.md)
+* [X] [ERD](erd.md)
 * [X] [Entity classes](entityclasses.md)
 * [ ] [DAO interfaces](daointerfaces.md)
