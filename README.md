@@ -8,7 +8,7 @@ This is your guide to Albuquerque's outdoors. Discover, share and blaze your
 favorite trails right from your phone. 
 
 ## Intended Users
-Any Buqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails!
+Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails!
 
 ## Links
 
