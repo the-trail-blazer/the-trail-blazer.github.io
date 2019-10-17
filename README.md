@@ -26,7 +26,8 @@ favorite trails right from your phone.
 ## Tools 
 
 * [Lucid Chart](lucidchart.com)
-* [Github](https://the-trail-blazer.github.io/trailblazer.github.io/)
+* [Github](https://github.com/the-trail-blazer)
+* [Scrum Board](https://github.com/the-trail-blazer/trailblazer.github.io/projects/5)
 
 
 ## Resources 
