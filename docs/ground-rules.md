@@ -1,21 +1,17 @@
 ## Ground Rules 
 
 ____________________________________________________________________
-         Trail Blazer 
-    "Blaze Your Own Trails"
+    The Trail Blazer "Blaze your own trails"
 
 ### How we will communicate:
 
     Slack
     Text message
-    Stand Up Meetings
-    Weekly Meetings
     Big decisions made face to face
 
 ### Other goals:
 
-    1. Maintain positivity within the group. If someone is having an issue please communicate 
-       it with the group. 
+    1. Maintain positivity within the group. If someone is having an issue please communicate it with the group. 
     2. Talk about productivity issues.
     3. Plan to do something producitive daily (even just a conversation not 
        neccesarily getting work done.)
@@ -39,7 +35,7 @@ ____________________________________________________________________
 
 ### Daily Standup:
 
-Daily stand ups will be held at 12:45pm everyday unless otherwise noted
+Daily stand ups will be held at 12:45pm unless otherwise noted
 
 ### E-Sign:
 
