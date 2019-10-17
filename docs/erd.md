@@ -1,11 +1,6 @@
 ## Entity Relationship Diagram 
 
-<<<<<<< HEAD
 [![ERD](resources/trail-blazer-erd.png)](resources/trail-blazer-erd.pdf)
-=======
-[![ERD](trail-blazer.erd.png)](trail-blazer.erd.pdf)
->>>>>>> 872f1509d85025bc40ba5784ac190dc5e2083811
-
 
 ### Links to Entity Source Code
 
