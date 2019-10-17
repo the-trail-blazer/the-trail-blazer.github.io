@@ -1,11 +1,8 @@
-## Introduction 
+## Description 
 As a group we decided to build a trail app called Trail Blazer that helps users
 navigate, track and explore the outdoors. The user's activity can be recorded and
-saved privately or shared with friends.
-
-## Description 
-This is your guide to Albuquerque's outdoors. Discover, share and blaze your 
-favorite trails right from your phone. 
+saved privately or shared with friends. This is your guide to Albuquerque's outdoors. 
+Discover, share and blaze your favorite trails right from your phone. 
 
 ## Intended Users
 * Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails! 
