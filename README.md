@@ -13,7 +13,6 @@ Any Buqueno that loves to enjoy New Mexico's beautiful weather and perfect hikin
 ## Links
 
 * [Ground Rules](docs/ground-rules.md)
-* [TODOS](docs/TODOS.md)
 * [Entity Relationship Diagrams](docs/erd.md)
 * [Wireframe Diagrams](docs/wireframe.md)  
 * [User Stories](docs/user-stories.md)
