@@ -1,6 +1,6 @@
 ## Entity Relationship Diagram 
 
-[![ERD](trail-blazer-erd.png)](trail-blazer-erd.pdf)
+[![ERD](trail-blazer.erd.png)](trail-blazer.erd.pdf)
 
 
 ### Links to Entity Source Code
