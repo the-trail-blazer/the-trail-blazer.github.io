@@ -8,7 +8,10 @@ This is your guide to Albuquerque's outdoors. Discover, share and blaze your
 favorite trails right from your phone. 
 
 ## Intended Users
-Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails!
+* Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails! 
+* Visitors who want to explore Albuquerque. 
+* Friends who want to share their trails. 
+* Outdoor enthusiasts looking for new adventure! 
 
 ## Links
 
@@ -24,7 +27,6 @@ Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiki
 
 * [Lucid Chart](lucidchart.com)
 * [Github](https://the-trail-blazer.github.io/trailblazer.github.io/)
-* 
 
 
 ## Resources 
