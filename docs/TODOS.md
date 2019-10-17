@@ -4,8 +4,8 @@
 
 * [X] Need at least 5 user stories
 * [ ] Choose basic android layout
-* [ ] Get android project started and pushed to github
-* [ ] Continue to work on ERDs and start building out entity classes
+* [X] Get android project started and pushed to github
+* [X] Continue to work on ERDs and start building out entity classes
 
 #### Project
 

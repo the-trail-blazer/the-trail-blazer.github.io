@@ -20,5 +20,19 @@ Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiki
 * [Milestones](docs/milestones.md)
 
 
+## Tools 
+
+* [Lucid Chart](lucidchart.com)
+* [Github](https://the-trail-blazer.github.io/trailblazer.github.io/)
+* 
+
+
+## Resources 
+
+* [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html)
+* [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/capstone-milestone-1-rubric.html)
+
+
+
 
 
