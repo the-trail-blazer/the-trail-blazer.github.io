@@ -5,7 +5,7 @@ The Trail Blazer
    
     Team to work on adding classes and creating user stories and ERDs.  
     
-#### Week 2: (Date here)
+#### Week 2: (10/18)
 
     (Insert meeting minutes)  
     

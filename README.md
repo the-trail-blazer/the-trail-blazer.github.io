@@ -19,6 +19,16 @@ Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiki
 * [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
 * [Milestones](docs/milestones.md)
 
-### Useful links
 
+## Tools 
+
+* [Lucid Chart](lucidchart.com)
+* [Github](https://the-trail-blazer.github.io/trailblazer.github.io/)
+* 
+
+
+## Resources 
+
+* [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html)
+* [Rubric](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/capstone-milestone-1-rubric.html)
 * [Data Model Implentation Examples](https://deep-dive-coding-java-cohort-8.github.io/assets/pdf/Data%20Model%20Implementation%20Scenarios%20(Pandoc).pdf)
