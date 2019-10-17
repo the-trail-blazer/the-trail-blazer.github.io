@@ -11,21 +11,15 @@ favorite trails right from your phone.
 ## Intended Users
 Any Buqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails!
 
-### [Ground Rules](docs/ground-rules.md)
+## Links
 
-### [TODOS](docs/TODOS.md)
-
-### [Entity Relationship Diagram](docs/erd.md)
-
-### [Wireframe Diagram](docs/wireframe.md)  
-
-### [User Stories](docs/user-stories.md)
-
-### [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
-
-#### First Milestone Deliverable (October 21st)
-
-+ [ ] ERDs 
+* [Ground Rules](docs/ground-rules.md)
+* [TODOS](docs/TODOS.md)
+* [Entity Relationship Diagram](docs/erd.md)
+* [Wireframe Diagram](docs/wireframe.md)  
+* [User Stories](docs/user-stories.md)
+* [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
+* [Milestones](docs/milestones.md)
 
 
 
