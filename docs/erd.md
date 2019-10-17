@@ -1,4 +1,4 @@
-## Entity Relationship Diagram 
+## Entity Relationship Diagrams 
 
 [![ERD](resources/trail-blazer-erd.png)](resources/trail-blazer-erd.pdf)
 
