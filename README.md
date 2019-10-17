@@ -23,7 +23,7 @@ Any Buqueno that loves to enjoy New Mexico's beautiful weather and perfect hikin
 
 ### [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
 
-#First Milestone Deliverable (October 21st)
+# First Milestone Deliverable (October 21st)
 
 + [ ] ERDs 
 
