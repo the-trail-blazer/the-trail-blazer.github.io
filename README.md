@@ -14,7 +14,7 @@ Discover, share and blaze your favorite trails right from your phone.
 
 * [Ground Rules](docs/ground-rules.md)
 * [ERD & Entity Source Code](docs/erd.md)
-* [Wireframe Diagrams](docs/wireframe.md)  
+<!-- * [Wireframe Diagrams](docs/wireframe.md) --> 
 * [User Stories](docs/user-stories.md)
 * [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
 * [Milestones](docs/milestones.md)
