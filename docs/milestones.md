@@ -3,8 +3,8 @@
 
 
 ### First Milestone Deliverable (October 21st)
-+ [ ] Project description
-+ [ ] Intended users
-+ [ ] User stories
-+ [ ] ERDs 
-+ [ ] Entity classes
++ [x] Project description
++ [x] Intended users
++ [x] User stories
++ [x] ERDs 
++ [x] Entity classes
