@@ -22,7 +22,7 @@ Discover, share and blaze your favorite trails right from your phone.
 
 ## Tools 
 
-* [Lucid Chart](lucidchart.com)
+* [Lucid Chart](https://www.lucidchart.com/pages/)
 * [Github](https://github.com/the-trail-blazer)
 * [Scrum Board](https://github.com/the-trail-blazer/trailblazer.github.io/projects/5)
 
