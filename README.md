@@ -13,11 +13,11 @@ Discover, share and blaze your favorite trails right from your phone.
 ## Links
 
 * [Ground Rules](docs/ground-rules.md)
-* [ERD & Entity Source Code](docs/erd.md)
-<!-- * [Wireframe Diagrams](docs/wireframe.md) --> 
+* [ERD & Entity Source Code](docs/erd.md) 
 * [User Stories](docs/user-stories.md)
 * [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
 * [Milestones](docs/milestones.md)
+<!-- * [Wireframe Diagrams](docs/wireframe.md) -->
 
 
 ## Tools 
