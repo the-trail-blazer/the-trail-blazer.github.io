@@ -2,7 +2,7 @@
 
 User stories are short, simple descriptions of a feature told from the perspective of the person 
 who desires the new capability, usually a user or customer of the system. 
-
+```
 * As a runner, I want an app that can help me track my jogging distance on my daily runs.
 
 * As a hiker, I want an app that can help me lookup highest rated trails around me.  
@@ -15,4 +15,5 @@ who desires the new capability, usually a user or customer of the system.
 
 * As someone interested in hiking I would like to have an app that shows me what trails I could explore. 
 
+```
 
