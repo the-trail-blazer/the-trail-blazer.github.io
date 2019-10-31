@@ -13,17 +13,16 @@ Discover, share and blaze your favorite trails right from your phone.
 ## Links
 
 * [Ground Rules](docs/ground-rules.md)
-* [Milestones](docs/milestones.md)
-* [ERD & Entity Source Code](docs/erd.md) 
+* [ERD & Entity Source Code](docs/erd.md)
+* [Wireframe Diagrams](docs/wireframe.md) 
 * [User Stories](docs/user-stories.md)
 * [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
-* [Trail Blazer Client Repo](https://github.com/the-trail-blazer/trailblazer-client)
-<!-- * [Wireframe Diagrams](docs/wireframe.md) -->
+* [Milestones](docs/milestones.md)
 
 
 ## Tools 
 
-* [Lucid Chart](https://www.lucidchart.com/pages/)
+* [Lucid Chart](lucidchart.com)
 * [Github](https://github.com/the-trail-blazer)
 * [Scrum Board](https://github.com/the-trail-blazer/trailblazer.github.io/projects/5)
 
