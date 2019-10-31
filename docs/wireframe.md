@@ -1,3 +1,3 @@
 ## Wireframe Diagram
 
-[![wireframe](trail-blazer-wireframe.png)](trail-blazer-wireframe.pdf)
+[![wireframe](resources/trail-blazer-wireframe.png)](resources/trail-blazer-wireframe.pdf)
