@@ -16,7 +16,7 @@ The Trail Blazer
        
  ### Week 3: (Date Here)
  
-    (Insert meeting minutes) 
+    
 
 
 
