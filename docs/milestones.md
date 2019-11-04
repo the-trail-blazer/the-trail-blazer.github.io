@@ -9,7 +9,7 @@
 + [x] ERDs 
 + [x] Entity classes
 
-### [Second Milestone Deliverable (November 3, 2019)](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
+### [Second Milestone Deliverable (November 13, 2019)](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
 
 + [ ] Team Roster
 + [ ] Project Description 
