@@ -11,10 +11,10 @@
 
 ### [Second Milestone Deliverable (November 13, 2019)](https://deep-dive-coding-java-cohort-8.github.io/2019/11/03/capstone-milestone-2-rubric.html)
 
-+ [ ] Team Roster
-+ [ ] Project Description 
-+ [ ] Intended users
-+ [ ] User stories
++ [x] Team Roster
++ [x] Project Description 
++ [x] Intended users
++ [x] User stories
 + [ ] Wireframes
 + [ ] ERDs
 + [ ] Entity classes

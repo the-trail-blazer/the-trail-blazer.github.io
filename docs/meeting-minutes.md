@@ -16,7 +16,9 @@ The Trail Blazer
        
  ### Week 3: (Date Here)
  
-    
+    TODO: update resources 
+          add post and get requests 
+          upadte trail fragment 
 
 
 
