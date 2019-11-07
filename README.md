@@ -31,8 +31,9 @@ Discover, share and blaze your favorite trails right from your phone.
 
 ## Resources 
 
-* [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html)
 * [Milestones](docs/milestones.md)
+* [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html)
+
 
 
 

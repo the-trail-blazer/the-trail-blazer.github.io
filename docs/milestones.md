@@ -16,9 +16,9 @@
 + [x] Intended users
 + [x] User stories
 + [ ] Wireframes
-+ [ ] ERDs
-+ [ ] Entity classes
-+ [ ] Repository Interfaces 
-+ [ ] REST Controllers & Application Logic Services 
-+ [ ] Client-side Authentication with Token Logging
++ [x] ERDs
++ [x] Entity classes
++ [x] Repository Interfaces 
++ [x] REST Controllers & Application Logic Services 
++ [x] Client-side Authentication with Token Logging
 
