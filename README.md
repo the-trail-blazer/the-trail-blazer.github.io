@@ -1,5 +1,5 @@
-## Introduction
-
+# Welcome
+<br>
 
 ## Description 
 As a group we decided to build a trail app called Trail Blazer that helps users
