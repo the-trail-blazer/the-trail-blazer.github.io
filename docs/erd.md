@@ -9,3 +9,5 @@
 [`User`](https://github.com/the-trail-blazer/trailblazer-service/blob/master/src/main/java/io/trailblazer/trailblazerservice/model/entity/User.java)
 
 [`Grant`](https://github.com/the-trail-blazer/trailblazer-service/blob/master/src/main/java/io/trailblazer/trailblazerservice/model/entity/Grant.java)
+
+[`Content`](https://github.com/the-trail-blazer/trailblazer-service/blob/master/src/main/java/io/trailblazer/trailblazerservice/model/entity/Content.java)

@@ -7,11 +7,18 @@ The Trail Blazer
     
 #### Week 2: (10/18)
 
-    (Insert meeting minutes)  
-    
+     Completed: 
+     ERD and entity classes are built 
+     Github documentation 
+     Milestone #1 completed 
+     Roadblock: researching MySQl and geo json
+     TODOs: start researhing front end Android - wireframes, styles, UI
+       
  ### Week 3: (Date Here)
  
-    (Insert meeting minutes) 
+    TODO: update resources 
+          add post and get requests 
+          upadte trail fragment 
 
 
 
