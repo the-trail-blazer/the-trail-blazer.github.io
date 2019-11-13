@@ -1,8 +1,8 @@
-# Welcome
+# Welcome!
 <br>
 
 ## Team Roster
-* Isaac Linland
+* Isaac Lindland
 * Justin Dominguez
 * Joel Bond
 * Khizar Saleem
