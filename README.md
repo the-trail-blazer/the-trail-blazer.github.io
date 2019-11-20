@@ -1,11 +1,15 @@
-# Welcome!
+# Welcome to Trail Blazer
+### Blaze your own trails! 
 <br>
 
 ## Team Roster
-* Isaac Lindland
-* Justin Dominguez
-* Joel Bond
-* Khizar Saleem
+* [Isaac Lindland](https://github.com/swandivejack)
+* [Justin Dominguez](https://github.com/justinbdom)
+* [Joel Bond](https://github.com/bondj89)
+* [Khizar Saleem](https://github.com/khizar-saleem)
+
+## Introduction 
+
 
 ## Description 
 As a group we decided to build a trail app called Trail Blazer that helps users
