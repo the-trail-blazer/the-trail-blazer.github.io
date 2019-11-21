@@ -15,7 +15,7 @@
 + [x] Project Description 
 + [x] Intended users
 + [x] User stories
-+ [ ] Wireframes
++ [X] Wireframes
 + [x] ERDs
 + [x] Entity classes
 + [x] Repository Interfaces 
