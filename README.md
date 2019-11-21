@@ -30,9 +30,9 @@ Discover, share and blaze your favorite trails right from your phone.
 * [Wireframe Diagrams](docs/wireframe.md)
 * [ERD & Entity Source Code](docs/erd.md)
 * [Repository Interfaces](docs/repo-interfaces.md) 
-* [Controller & Service Classes](docs/controllers-and-services.md)
+* [Service and Client Documentation](docs/controllers-and-services.md)
 * [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
-
+* [Trail Blazer Client Repo](https://github.com/the-trail-blazer/trailblazer-client)
 
 ## Tools 
 
