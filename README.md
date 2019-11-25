@@ -9,7 +9,9 @@
 * [Khizar Saleem](https://github.com/khizar-saleem)
 
 ## Introduction 
-
+For our Captsone Group project we decided to create a trail tracking app for Albuquerque, NM. 
+This native Android application will populate local trails based upon your location. Record your 
+trails and/or walking paths. 
 
 ## Description 
 As a group we decided to build a trail app called Trail Blazer that helps users

@@ -22,3 +22,29 @@
 + [x] REST Controllers & Application Logic Services 
 + [x] Client-side Authentication with Token Logging
 
+### [Third/Final Milestone Deliverable](https://deep-dive-coding-java-cohort-8.github.io/2019/11/22/capstone-project-milestone-3-rubric)
+
++ [x] Team Roster
++ [x] Project Introduction & Description 
++ [x] Intended Users
++ [ ] PDF Overview
++ [x] User Stories
++ [ ] Summary of Current State of Project
++ [ ] Building Instructions 
++ [ ] User Instructions 
++ [x] Wireframe Diagrams
++ [ ] Outline of Technology Stacks (Front/Back End) 
++ [x] Entity Relationship Diagrams
++ [ ] DDL
++ [ ] Javadoc-generated technical documentation
++ [ ] REST service endpoint documentation
++ [ ] Copyright & Licensing Information
++ [ ] Coherence with documented state of completion
++ [ ] Intuitive GUI: 
++ [ ] Efficient, reliable communication between component platforms
++ [ ] Effective use of databases (relational or non-relational) for maintaining persistent data
++ [ ] Database-driven display of/interaction with model object collections
++ [ ] Consumption of external data or services
++ [ ] Custom icons and other graphics
+   
+   
