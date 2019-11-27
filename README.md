@@ -15,8 +15,8 @@
 ### Application Demo:
 (Insert Gif Example here)
 
-
 ## Introduction & Description 
+```text
 For our Capstone project we decided to build a multi-tier Android application called Trail Blazer. 
 Our application consists of a server side and a client side that has allowed our team to organize 
 trail data from the Albuquerque New Mexico Open Trails dataset. With this information we were able 
@@ -26,7 +26,7 @@ Trail Blazer helps consumers navigate, track and explore the outdoors. Populate 
 on current location and keep track of your progress by recording the activity. Share your activities 
 with friend or save them privately to your profile. This is your guide to Albuquerque's vast open trails. 
 Discover, share and blaze your favorite trails right from the palm of your hand. 
-
+```
 
 ## Intended Users
 * Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails! 
@@ -34,80 +34,58 @@ Discover, share and blaze your favorite trails right from the palm of your hand.
 * Friends who want to share their trails. 
 * Outdoor enthusiasts looking for new adventure! 
 
-### [PDF Summary](docs/resources/trailblazersummary.pdf)
+### [PDF Summary](docs/resources/trailblazer-summary.pdf)
+
+## Current State
+```text
+
+```
+
+## Future State
+```text
+
+```
 
 
 ## Stretch Goals
+* Users can share their data with other users on platform 
+* 
+
 
 ## Technical requirements & dependencies
+* 
+*
+*
 
-## Outlines of Technology Stacks
-#### Back End: 
+## [Outlines of Technology Stacks](docs/outlines-of-technology-stacks.md)
 
-* [Ubuntu Linux OS]()
-* [Apache HTTP server configured as reverse proxy]()
-* [JRE 8]()
-* [Apache Tomcat Java application server]()
-* [Web service application, incorporating]()
-    * [Data model]()
-        * [Embedded Apache Derby database]()
-        * [Hibernate ORM]()
-        * [Custom entity classes]()
-        * [Spring Boot Data]()
-        * [Custom data repository interfaces]()
-    * [Service Controllers]()
-        * [Spring MVC]()
-        * [Custom Controllers]()
-    * [View Composition & Serialization]()
-        * [Jackson JSON]()
-        * [Custom View Classes & Interfaces]()
-    * [Authentication]()
-        * [Spring Security]()
-        * [Google Sign In](https://developers.google.com/identity)
-#### Front End:
-* [Android OS]()
-* [Data model]()
-    * [SQLite]()
-    * [Room ORM]()
-    * [Custom entity and other model classes]()
-    * [Custom type converters]()
-    * [Custom type converters]()
-    * [Data access object (DAO) interfaces]()
-* [Remote service interfaces]()
-    * [Retrofit]()
-    * [ReactiveX]()
-    * [Gson]()
-    * [Custom serializer/deserializers]()
-* [View Model Components]() 
-    * [Android Lifecycle framework (ViewModel & LiveData)]()
-    * [Custom View Model Classes]()
-* [View]()
-    * [Custom RecyclerView.Adapter and RecyclerView.Holder classes]()
-    * [Custom Layouts]()
-* [Controller]()
-    * [Custom activity and fragment classes]()
-*[Authentication]()
-    *  [Google Sign In](https://developers.google.com/identity)
+## [Javadoc-generated Technical Documentation]()
 
 
 ## Instructions for Building 
+```text
 
+```
 
 ## Instructions for Using our App
+```text
 
-
-#### [Javadoc-generated Technical Documentation]()
+```
 
 
 ## External Services Used
 This app consumes the following services. 
 + [Google Sign In](https://developers.google.com/identity)
++ [ABQ Open Trails](http://data.cabq.gov/community/opentrails/)
 
 
 ## Third Party Libraries
+*
+*
+*
 
 
-## Links
+## Helpful Links
 * [Ground Rules](docs/ground-rules.md)
 * [User Stories](docs/user-stories.md)
 * [Wireframe Diagrams](docs/wireframe.md)
@@ -129,10 +107,11 @@ This app consumes the following services.
 * [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html)
 
 
-## Future State of App
-
-
 ## Copyright & License 
+*
+*
+*
+
 
 
 

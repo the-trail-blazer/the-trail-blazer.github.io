@@ -11,9 +11,9 @@ who desires the new capability, usually a user or customer of the system.
 
 * As someone who loves exploring with friends, I would like to be able to share my favorite paths. 
 
-* As someone who loves exploring, I would lik eto have a record of where and when I found something new. 
+* As someone who loves exploring, I would like to have a record of where and when I found something new. 
 
-* As someone interested in hiking I would like to have an app that shows me what trails I could explore. 
+* As someone interested in hiking I would like to have an app that shows me what trails I could explore around me. 
 
 ```
 
