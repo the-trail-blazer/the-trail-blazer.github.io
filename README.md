@@ -16,7 +16,6 @@
 (Insert Gif Example here)
 
 ## Introduction & Description 
-```text
 For our Capstone project we decided to build a multi-tier Android application called Trail Blazer. 
 Our application consists of a server side and a client side that has allowed our team to organize 
 trail data from the Albuquerque New Mexico Open Trails dataset. With this information we were able 
@@ -26,7 +25,7 @@ Trail Blazer helps consumers navigate, track and explore the outdoors. Populate 
 on current location and keep track of your progress by recording the activity. Share your activities 
 with friend or save them privately to your profile. This is your guide to Albuquerque's vast open trails. 
 Discover, share and blaze your favorite trails right from the palm of your hand. 
-```
+
 
 ## Intended Users
 * Any Burqueno that loves to enjoy New Mexico's beautiful weather and perfect hiking trails! 
