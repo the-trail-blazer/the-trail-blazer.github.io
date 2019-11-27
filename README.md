@@ -11,8 +11,10 @@
 * [Khizar Saleem](https://github.com/khizar-saleem)
     * [LinkedIn Profile](https://www.linkedin.com/in/khizar-saleem/)
     
-#### Application Demo:
+    
+### Application Demo:
 (Insert Gif Example here)
+
 
 ## Introduction & Description 
 For our Capstone project we decided to build a multi-tier Android application called Trail Blazer. 
@@ -31,6 +33,9 @@ Discover, share and blaze your favorite trails right from the palm of your hand.
 * Visitors who want to explore Albuquerque. 
 * Friends who want to share their trails. 
 * Outdoor enthusiasts looking for new adventure! 
+
+### [PDF Summary](docs/resources/trailblazersummary.pdf)
+
 
 ## Stretch Goals
 
