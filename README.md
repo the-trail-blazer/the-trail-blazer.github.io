@@ -33,7 +33,7 @@ Discover, share and blaze your favorite trails right from the palm of your hand.
 * Friends who want to share their trails. 
 * Outdoor enthusiasts looking for new adventure! 
 
-### Our [PDF Summary](docs/resources/trailblazer-summary.pdf)
+## Our [PDF Summary](docs/resources/trailblazer-summary.pdf)
 
 ## Current State
 ```text
