@@ -100,12 +100,8 @@ This app consumes the following services.
 + [ABQ Open Trails](http://data.cabq.gov/community/opentrails/)
 
 
-
 ## Helpful Links
 * [Ground Rules](docs/ground-rules.md)
-
-
-
 
 
 ## Tools 
@@ -120,7 +116,7 @@ This app consumes the following services.
 
 ## Trail Blazer, All Rights Reserved
 ```
-This work is Copyright, 2019, Isaac Lindland, Joel Bond, Khizar Saleem, Justin Dominguez, All rights reserved
+This work is Copyright, 2019, Isaac Lindland, Joel Bond, Khizar Saleem, Justin Dominguez, All rights reserved.
 ```
 
 
