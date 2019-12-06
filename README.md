@@ -1,4 +1,5 @@
 # Welcome to Trail Blazer
+
 ### Blaze your own trails! 
 
 ## Team Roster
@@ -16,16 +17,14 @@
     * [LinkedIn Profile](https://www.linkedin.com/in/khizar-saleem/)
     
     
-## Application Demo:
-(Insert Gif Example here)
 
 ## Introduction & Description 
-For our Capstone project we decided to build a multi-tier Android application called Trail Blazer. 
+* For our Capstone project we decided to build a multi-tier Android application called Trail Blazer. 
 Our application consists of a server side and a client side that has allowed our team to organize 
 trail data from the Albuquerque New Mexico Open Trails dataset. With this information we were able 
 to produce a clean and simple user interface for outdoor enthusiasts within the Albuquerque area. 
 
-Trail Blazer helps consumers navigate, track and explore the outdoors. Populate local trails based 
+* Trail Blazer helps consumers navigate, track and explore the outdoors. Populate local trails based 
 on current location and keep track of your progress by recording the activity. Share your activities 
 with friend or save them privately to your profile. This is your guide to Albuquerque's vast open trails. 
 Discover, share and blaze your favorite trails right from the palm of your hand. 
@@ -88,7 +87,12 @@ Discover, share and blaze your favorite trails right from the palm of your hand.
 8. Click the run icon and select the device you wish to run it on.
 
 ## Instructions for Using our App
-
+* Trail Blazer uses Google Sign-in so the user must sign in with a Google account
+* After signing in the user will see a prompt requesting location permission
+* Users can create their own profile in the Profile tab so they can record trails that will belong to their account
+* Users can see trails in Albuquerque in the explore and they can also see the trails that they've recorded
+* Users can start recording their own trail by pressing the red button in the Map tab
+ 
 
 ## External Services Used
 This app consumes the following services. 
@@ -114,12 +118,10 @@ This app consumes the following services.
 * [Milestones](docs/milestones.md)
 * [Data Model Implementation Scenarios](https://deep-dive-coding-java-cohort-8.github.io/2019/10/17/data-model-implementation-scenarios.html)
 
-
-## Copyright & License 
-* 
-* 
-* 
-
+## Trail Blazer, All Rights Reserved
+```
+This work is Copyright, 2019, Isaac Lindland, Joel Bond, Khizar Saleem, Justin Dominguez, All rights reserved
+```
 
 
 
