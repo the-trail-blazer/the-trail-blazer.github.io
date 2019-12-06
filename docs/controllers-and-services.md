@@ -1,7 +1,8 @@
-# Controller & Service Classes
+# Controllers & Service Classes
 
-## Service
-* [Javadocs](https://the-trail-blazer.github.io/trailblazer-service/docs/javadocs/index.html)
+## REST controllers
+* [TrailController](https://github.com/the-trail-blazer/trailblazer-service/blob/master/src/main/java/io/trailblazer/trailblazerservice/controller/TrailController.java)
+* [UserController](https://github.com/the-trail-blazer/trailblazer-service/blob/master/src/main/java/io/trailblazer/trailblazerservice/controller/UserController.java)
 
 ## Service classes
 * [UserService](https://github.com/the-trail-blazer/trailblazer-service/blob/master/src/main/java/io/trailblazer/trailblazerservice/service/UserService.java)

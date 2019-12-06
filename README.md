@@ -2,17 +2,21 @@
 ### Blaze your own trails! 
 
 ## Team Roster
-* [Isaac Lindland](https://github.com/swandivejack)
+* Isaac Lindland
+    * [GitHub](https://github.com/swandivejack)
     * [LinkedIn Profile](https://www.linkedin.com/in/isaaclindland/)
-* [Joel Bond](https://github.com/bondj89)
+* Joel Bond
+    * [GitHub](https://github.com/bondj89)
     * [LinkedIn Profile](https://www.linkedin.com/in/bondcsm/)
-* [Justin Dominguez](https://github.com/justinbdom)
+* Justin Dominguez
+    * [GitHub](https://github.com/justinbdom)
     * [LinkedIn Profile](https://www.linkedin.com/in/justin-dominguez-8912b3191/)
-* [Khizar Saleem](https://github.com/khizar-saleem)
+* Khizar Saleem
+    * [GitHub](https://github.com/khizar-saleem)
     * [LinkedIn Profile](https://www.linkedin.com/in/khizar-saleem/)
     
     
-### Application Demo:
+## Application Demo:
 (Insert Gif Example here)
 
 ## Introduction & Description 
@@ -33,43 +37,57 @@ Discover, share and blaze your favorite trails right from the palm of your hand.
 * Friends who want to share their trails. 
 * Outdoor enthusiasts looking for new adventure! 
 
-## Our [PDF Summary](docs/resources/trailblazer-summary.pdf)
+
+
+# Summary of State of Trail Blazer
+* [PDF Summary](docs/resources/trailblazer-summary.pdf)
 
 ## Current State
-```text
-
-```
-
-## Future State
-```text
-
-```
-
+* Able to pull trails from ABQ Open Space 
+* Able to pop up and show trails in Google Maps
+* Users can record and name their own trails
+* Users can navigate to a trail using external Google Maps app
+* Able to add user profile with characteristics 
 
 ## Stretch Goals
 * Users can share their data with other users on platform 
+* Add an indicator that shows difficulty of of pre-populated trails
 * 
 
 
-## Technical requirements & dependencies
-* 
-*
-*
+## Technical Documentation
 
-## [Outlines of Technology Stacks](docs/outlines-of-technology-stacks.md)
-
-## [Javadoc-generated Technical Documentation]()
+* [ERD & Entity Source Code](docs/erd.md)  
+* [Data Definition Language](docs/ddl.md)
+* [Outlines of Technology Stacks](docs/outlines-of-technology-stacks.md)
+* [User Stories](docs/user-stories.md) 
+* [Wireframe Diagrams](docs/wireframe.md)
+* [Repository Interfaces](docs/repo-interfaces.md) 
+* [Service and Client Documentation](docs/controllers-and-services.md)
+* [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
+* [Trail Blazer Client Repo](https://github.com/the-trail-blazer/trailblazer-client)
+* [Javadocs](https://the-trail-blazer.github.io/trailblazer-service/docs/javadocs/overviewsummary.html)
 
 
 ## Instructions for Building 
-```text
 
-```
+1. Go to the [GitHub repository](https://github.com/the-trail-blazer/trailblazer-client)
+
+2. Click on Clone or download
+
+3. Make sure Clone with SSH is selected and click the clipboard icon to copy the SSH key
+
+4. Use the IntelliJ Check out from Version Control/Git (from the welcome screen) or File/New/Project from Version Control/Git (from the workspace) command to clone.
+  
+5. DO NOT click open when prompted to do so.
+
+6. Import the project you just cloned. In the Import Project window, select Import project from external model and then the Gradle item in the list.
+
+7. After the project is imported add a run configuration. This should use the Android App configuration, with a Name of "app", and with app selected from the Module pull-down control.
+
+8. Click the run icon and select the device you wish to run it on.
 
 ## Instructions for Using our App
-```text
-
-```
 
 
 ## External Services Used
@@ -78,21 +96,12 @@ This app consumes the following services.
 + [ABQ Open Trails](http://data.cabq.gov/community/opentrails/)
 
 
-## Third Party Libraries
-*
-*
-*
-
 
 ## Helpful Links
 * [Ground Rules](docs/ground-rules.md)
-* [User Stories](docs/user-stories.md)
-* [Wireframe Diagrams](docs/wireframe.md)
-* [ERD & Entity Source Code](docs/erd.md)
-* [Repository Interfaces](docs/repo-interfaces.md) 
-* [Service and Client Documentation](docs/controllers-and-services.md)
-* [Trail Blazer Service Repo](https://github.com/the-trail-blazer/trailblazer-service)
-* [Trail Blazer Client Repo](https://github.com/the-trail-blazer/trailblazer-client)
+
+
+
 
 
 ## Tools 

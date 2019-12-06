@@ -27,24 +27,24 @@
 + [x] Team Roster
 + [x] Project Introduction & Description 
 + [x] Intended Users
-+ [ ] PDF Overview
++ [x] PDF Overview
 + [x] User Stories
-+ [ ] Summary of Current State of Project
++ [x] Summary of Current State of Project
 + [ ] Building Instructions 
 + [ ] User Instructions 
 + [x] Wireframe Diagrams
-+ [ ] Outline of Technology Stacks (Front/Back End) 
++ [x] Outline of Technology Stacks (Front/Back End) 
 + [x] Entity Relationship Diagrams
-+ [ ] DDL
-+ [ ] Javadoc-generated technical documentation
-+ [ ] REST service endpoint documentation
++ [x] DDL
++ [x] Javadoc-generated technical documentation
++ [x] REST service endpoint documentation
 + [ ] Copyright & Licensing Information
-+ [ ] Coherence with documented state of completion
-+ [ ] Intuitive GUI: 
-+ [ ] Efficient, reliable communication between component platforms
-+ [ ] Effective use of databases (relational or non-relational) for maintaining persistent data
-+ [ ] Database-driven display of/interaction with model object collections
-+ [ ] Consumption of external data or services
-+ [ ] Custom icons and other graphics
++ [x] Coherence with documented state of completion
++ [x] Intuitive GUI: 
++ [x] Efficient, reliable communication between component platforms
++ [x] Effective use of databases (relational or non-relational) for maintaining persistent data
++ [x] Database-driven display of/interaction with model object collections
++ [x] Consumption of external data or services
++ [x] Custom icons and other graphics
    
    
